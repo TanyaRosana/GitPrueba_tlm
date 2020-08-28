@@ -1,0 +1,27 @@
+$ git log
+commit ee84572ed6838a837c780a4a08b81179a1a9aa42 (HEAD)
+Author: tlopez <tlopez197307@gmail.com>
+Date:   Thu Aug 27 16:59:55 2020 -0500
+
+    Cambio3  rendoda2
+
+commit 98661b6f5a0e87a921be6a82f52308a883b93e06
+Author: tlopez <tlopez197307@gmail.com>
+Date:   Thu Aug 27 16:59:19 2020 -0500
+
+    Cambio2  rendoda2
+
+commit f0b0a8957cb1cecf282c7e27cedb065e39f285b0
+Author: tlopez <tlopez197307@gmail.com>
+Date:   Thu Aug 27 16:58:35 2020 -0500
+
+    Cambio1  rendoda2
+
+commit 41d35960168739ab749f1314801f0866b8ac7997
+Author: tlopez <tlopez197307@gmail.com>
+Date:   Thu Aug 27 15:36:24 2020 -0500
+
+    Primer Cambio
+
+
+5188e6707ee5e25c5e44cc1f770d4a4e2aafd099
